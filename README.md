@@ -57,18 +57,18 @@ RESTful API authentication menggunakan JWT (JSON Web Token) dengan fitur CRUD da
 
 ## Screenshot
 
-register ![Register](ss/register.png)
+Register ![Register](ss/register.png)
 
-login ![Login](ss/login.png)
+Login ![Login](ss/login.png)
 
-get all komik ![Get All Komik](ss/getAll.png)
-get komik by id ![Get By Id](ss/getById.png)
+Get All Komik ![Get All Komik](ss/getAll.png)
+Get Komik By Id ![Get By Id](ss/getById.png)
 
-post before login ![Post Before Login](ss/postBeforeLogin.png)
-post after login ![Post After Login](ss/postAfterLogin.png)
+Post Before Login ![Post Before Login](ss/postBeforeLogin.png)
+Post After Login ![Post After Login](ss/postAfterLogin.png)
 
-put before login ![Put After Login](ss/putBeforeLogin.png)
-put after login ![Put After Login](ss/putAfterLogin.png)
+Put Before Login ![Put After Login](ss/putBeforeLogin.png)
+Put After Login ![Put After Login](ss/putAfterLogin.png)
 
-delete before login ![Put After Login](ss/deleteBeforeLogin.png)
-delete after login![Delete](ss/deleteAfterLogin.png)
+Delete Before Login ![Put After Login](ss/deleteBeforeLogin.png)
+Delete After Login![Delete](ss/deleteAfterLogin.png)
